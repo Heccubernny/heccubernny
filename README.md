@@ -89,6 +89,7 @@ const aboutMe = {
 <!--END_SECTION:waka-->
 
 <!-- BLOG-POST-LIST:START -->
+- [Learning the skills required to system administrate a remote Linux server from the Command-Line.](https://dev.to/heccubernny/learning-the-skills-required-to-system-administrate-a-remote-linux-server-from-the-command-line-4lh3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- STACKOVERFLOW:START -->

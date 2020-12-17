@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+[![My Github Stats](https://github-readme-stats.vercel.app/api/?username=Heccubernny&count_private=false&theme=tokyonight&showicons=true)]()
+[![My Github Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=%7B Heccubernny %7D&langs_count=5&theme=tokyonight)]()
+
+
+
 <!--
 **Heccubernny/heccubernny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

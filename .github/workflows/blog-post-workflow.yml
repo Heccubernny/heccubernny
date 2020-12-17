@@ -11,4 +11,4 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://dev.to/feed/heccubernny,https://www.medium.com/feed/@ipom4eva, https://stackoverflow.com/feeds/user/11686793/heccubernny"
+          feed_list: "https://dev.to/feed/heccubernny,https://www.medium.com/feed/@ipom4eva"

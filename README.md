@@ -52,7 +52,8 @@ const aboutMe = {
     My Github Stats
     <img align="left" src="https://github-readme-stats.vercel.app/api/?username=Heccubernny&count_private=false&theme=draculart&show_icons=true">
   </p>
-
+</div>
+<div>
   <p align="center">
     My Github Language Stats
     <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heccubernny&langs_count=5&theme=dracula&show_icons=true">

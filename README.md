@@ -1,5 +1,6 @@
 ### Hi there, 👋🏼 I'm Heccubernny.
-
+<img align='right' src='https://media.giphy.com/media/S6O2GuDzHJCoVD7NFm/giphy.gif' width=200>
+<img align='right' src='https://media.giphy.com/media/MXLN2zGiKsSN6P8Bv1/giphy.gif' width=200>
 
 ```python
 class aboutme():
@@ -30,7 +31,7 @@ const aboutMe = {
       },
       backEnd: {
          Python: ["Django"],
-         js: ["Node", ""],
+         js: ["Node"],
          others: ["Bash", "Selenium"]
       },
       databases: ["mySQL", "SQLite3"]
@@ -44,9 +45,7 @@ const aboutMe = {
 </br></br>
 <h2>💻 My Actions stats: 💻</h2>
 
-[![My Github Stats](https://github-readme-stats.vercel.app/api/?username=Heccubernny&count_private=false&theme=tokyonight&showicons=true)]()
-
-[![My Github Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Heccubernny&langs_count=5&theme=tokyonight)]()
+[![My Github Stats](https://github-readme-stats.vercel.app/api/?username=Heccubernny&count_private=false&theme=tokyonight&showicons=true)]()[![My Github Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Heccubernny&langs_count=5&theme=tokyonight)]()
 
 [![Heccubernny's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Heccubernny)](https://github.com/Heccubernny)
 
@@ -54,8 +53,13 @@ const aboutMe = {
 - 🌱 I’m currently learning - Machine Learning
 - 👯 I’m looking to collaborate on - any project that deals with web, both frontend and backend, Open Source Project
 - 🤔 I’m looking for help with - Internship or Part-time Job
-- 📫 How to reach me -
+- 📫 How to reach me - <p><a href="https://www.twitter.com/"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com//"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> <a href="https://medium.com/"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> <a href="https://dev.to/"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a></p>
+
+
 - 😄 Pronouns - He/ His/ Him
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
 <!--
 **Heccubernny/heccubernny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

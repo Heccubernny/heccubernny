@@ -83,6 +83,8 @@ const aboutMe = {
 - ⚡ Activites-
 
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#2](https://github.com/Heccubernny/django_mysite_poll/issues/2) in [Heccubernny/django_mysite_poll](https://github.com/Heccubernny/django_mysite_poll)
+2. ❗️ Opened issue [#1](https://github.com/Heccubernny/django_mysite_poll/issues/1) in [Heccubernny/django_mysite_poll](https://github.com/Heccubernny/django_mysite_poll)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->

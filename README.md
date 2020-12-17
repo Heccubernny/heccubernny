@@ -92,6 +92,7 @@ const aboutMe = {
 
 <!-- STACKOVERFLOW:START -->
 <!-- STACKOVERFLOW:END -->
+
 **Languages and Tools:**  
 
 <code><img height="50" src="https://image.flaticon.com/icons/svg/2861/2861557.svg"></code>
@@ -113,7 +114,7 @@ const aboutMe = {
 </p>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-<a href="https://github.com/sponsors/heccubernny" title="Sponsor Heccubernny"><img src="/assets/sponsor.svg?sanitize=true" width="94" height="28" aria-hidden="true"></a>
+<!--<a href="https://github.com/sponsors/heccubernny" title="Sponsor Heccubernny"><img src="/assets/sponsor.svg?sanitize=true" width="94" height="28" aria-hidden="true"></a>--!>
 
 <!--
 **Heccubernny/heccubernny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

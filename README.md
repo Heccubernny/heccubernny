@@ -48,12 +48,14 @@ const aboutMe = {
 </br></br>
 <h2>💻 My Actions stats: 💻</h2>
 <div>
+  <br>
   <p align="center">
     My Github Stats
     <img align="left" src="https://github-readme-stats.vercel.app/api/?username=Heccubernny&count_private=false&theme=draculart&show_icons=true">
   </p>
 </div>
 <div>
+  <br>
   <p align="center">
     My Github Language Stats
     <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heccubernny&langs_count=5&theme=dracula&show_icons=true">
@@ -72,6 +74,7 @@ const aboutMe = {
 - 🌱 I’m currently learning - Machine Learning
 - 👯 I’m looking to collaborate on - any project that deals with web, both frontend and backend, Open Source Project
 - 🤔 I’m looking for help with - Internship or Part-time Job
+<br>
 - 📫 How to reach me - <p><a href="https://www.twitter.com/ikubanni_paul"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/ikubannipaul"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/heccubernny1/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> <a href="https://medium.com/@ipom4eva"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> <a href="https://dev.to/heccubernny"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a></p>
 
 

@@ -58,12 +58,12 @@ const aboutMe = {
 
 - 😄 Pronouns - He/ His/ Him
 <!-- BLOG-POST-LIST:START -->
-- [Learning the skills required to system administrate a remote Linux server from the Command-Line.](https://dev.to/heccubernny/learning-the-skills-required-to-system-administrate-a-remote-linux-server-from-the-command-line-4lh3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- STACKOVERFLOW:START -->
 <!-- STACKOVERFLOW:END -->
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<a href="https://github.com/sponsors/heccubernny" title="Sponsor Heccubernny"><img src="/assets/sponsor.svg?sanitize=true" width="94" height="28" aria-hidden="true"></a>
 
 <!--
 **Heccubernny/heccubernny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

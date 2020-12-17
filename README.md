@@ -47,13 +47,13 @@ const aboutMe = {
 
 </br></br>
 <h2>💻 My Actions stats: 💻</h2>
-<div>
-  <br>
-  <p align="center">
-    My Github Stats
-    <img align="left" src="https://github-readme-stats.vercel.app/api/?username=Heccubernny&count_private=false&theme=draculart&show_icons=true">
-  </p>
-</div>
+
+<br>
+<p align="center">
+  My Github Stats
+  <img align="left" src="https://github-readme-stats.vercel.app/api/?username=Heccubernny&count_private=false&theme=draculart&show_icons=true">
+</p>
+
 <div>
   <br>
   <p align="center">

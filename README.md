@@ -54,19 +54,17 @@ const aboutMe = {
   <img align="left" src="https://github-readme-stats.vercel.app/api/?username=Heccubernny&count_private=false&theme=draculart&show_icons=true">
 </p>
 
-<div>
+
   <br>
-  <p align="center">
-    Language Stats
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heccubernny&langs_count=5&theme=dracula&show_icons=true">
-  </p>
-</div>
-<div>
-  <p align="center">
-    Wakatime Stats
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Heccubernny">
-  </p>
-</div>
+<p align="center">
+  Language Stats
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heccubernny&langs_count=5&theme=dracula&show_icons=true">
+</p>
+
+<p align="center">
+  Wakatime
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Heccubernny">
+</p>
 
 <!--[![Heccubernny's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Heccubernny)](https://github.com/Heccubernny)--!>
 

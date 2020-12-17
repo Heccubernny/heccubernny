@@ -57,13 +57,13 @@ const aboutMe = {
 <div>
   <br>
   <p align="center">
-
+    Language Stats
     <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heccubernny&langs_count=5&theme=dracula&show_icons=true">
   </p>
 </div>
 <div>
   <p align="center">
-    
+    Wakatime Stats
     <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Heccubernny">
   </p>
 </div>

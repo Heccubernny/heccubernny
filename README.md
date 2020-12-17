@@ -17,7 +17,7 @@ myself.show()
 
 Solve the simple puzzle to know my name and pronoun
 
-```python
+```javascript
 technologyLanguages = [HTML, CSS, Javascript,  Python, Java]
 technologyLibraries = [React Js, Angular Js, Laravel, Django]
 const aboutMe = {

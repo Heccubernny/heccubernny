@@ -47,18 +47,23 @@ const aboutMe = {
 
 </br></br>
 <h2>💻 My Actions stats: 💻</h2>
-<p align="center">
-  My Github Stats
-<img align="left" src="https://github-readme-stats.vercel.app/api/?username=Heccubernny&count_private=false&theme=draculart&show_icons=true">
-</p>
-<p align="center">
-  My Github Language Stats
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heccubernny&langs_count=5&theme=dracula&show_icons=true">
-</p>
-<p align="center">
-  Heccubernny's wakatime stats
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Heccubernny">
-</p>
+<div>
+  <p align="center">
+    My Github Stats
+  <img align="left" src="https://github-readme-stats.vercel.app/api/?username=Heccubernny&count_private=false&theme=draculart&show_icons=true">
+  </p>
+
+  <p align="center">
+    My Github Language Stats
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heccubernny&langs_count=5&theme=dracula&show_icons=true">
+  </p>
+</div>
+<div>
+  <p align="center">
+    Heccubernny's wakatime stats
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Heccubernny">
+  </p>
+</div>
 
 <!--[![Heccubernny's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Heccubernny)](https://github.com/Heccubernny)--!>
 
@@ -99,9 +104,7 @@ Latest StackOverflow Activities:
 <code><img height="50" src="https://image.flaticon.com/icons/svg/752/752605.svg"></code>
 <code><img height="50" src="https://image.flaticon.com/icons/svg/1680/1680899.svg"></code>
 
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=guilyx&show_icons=true&hide_border=true">
-</p>
+
 
 <p align="center">
 <a href="https://www.buymeacoffee.com/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" ></a>

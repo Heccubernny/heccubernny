@@ -57,12 +57,10 @@ const aboutMe = {
 
   <br>
 <p align="center">
-  Language Stats
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heccubernny&langs_count=5&theme=dracula&show_icons=true">
 </p>
 
 <p align="center">
-  Wakatime
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Heccubernny">
 </p>
 

@@ -125,8 +125,8 @@ const aboutMe = {
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 <!--<a href="https://github.com/sponsors/heccubernny" title="Sponsor Heccubernny"><img src="/assets/sponsor.svg?sanitize=true" width="94" height="28" aria-hidden="true"></a>--!>
 **Visitors Count**  
-![VisitorCount](https://profile-counter.glitch.me/{Heccubernny}/count.svg)
+<!--[VisitorCount](https://profile-counter.glitch.me/{Heccubernny}/count.svg)--!>
 
 <!--
 **Heccubernny/heccubernny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+--!>

@@ -2,8 +2,7 @@
 [![Actions Status](https://github.com/heccubernny/heccubernny/workflows/wakatime-stats/badge.svg)](https://github.com/heccubernny/heccubernny/actions)
 [![Actions Status](https://github.com/heccubernny/heccubernny/workflows/update-gh-activity/badge.svg)](https://github.com/heccubernny/heccubernny/actions)
 ![](https://visitor-badge.glitch.me/badge?page_id=heccubernny.heccubernny)
-<img align='right' src='https://media.giphy.com/media/S6O2GuDzHJCoVD7NFm/giphy.gif' width=200>
-<img align='right' src='https://media.giphy.com/media/MXLN2zGiKsSN6P8Bv1/giphy.gif' width=200>
+
 
 ```python
 class aboutme():

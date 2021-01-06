@@ -1,7 +1,7 @@
 ### Hi there, 👋🏼 I'm Heccubernny.
 [![Actions Status](https://github.com/heccubernny/heccubernny/workflows/wakatime-stats/badge.svg)](https://github.com/heccubernny/heccubernny/actions)
 [![Actions Status](https://github.com/heccubernny/heccubernny/workflows/update-gh-activity/badge.svg)](https://github.com/heccubernny/heccubernny/actions)
-[!Visitation](https://visitor-badge.glitch.me/badge?page_id=heccubernny.heccubernny)
+![](https://visitor-badge.glitch.me/badge?page_id=heccubernny.heccubernny)
 
 
 ```python
@@ -112,7 +112,6 @@ const aboutMe = {
 <code><img height="50" src="https://image.flaticon.com/icons/svg/2721/2721297.svg"></code>
 <code><img height="50" src="https://www.flaticon.com/svg/static/icons/svg/136/136530.svg"></code>
 <code><img height="50" src="https://www.flaticon.com/svg/static/icons/svg/528/528261.svg"></code>
-<code><img height="50" src="https://www.flaticon.com/svg/static/icons/svg/919/919851.svg"></code>
 <code><img height="50" src="https://www.flaticon.com/svg/static/icons/svg/2535/2535523.svg"></code>
 <br></br>
 ***Misc Tools***

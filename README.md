@@ -85,6 +85,7 @@ const aboutMe = {
 1. ❗️ Opened issue [#2](https://github.com/Heccubernny/heccubernny/issues/2) in [Heccubernny/heccubernny](https://github.com/Heccubernny/heccubernny)
 2. ❗️ Opened issue [#1](https://github.com/Heccubernny/heccubernny/issues/1) in [Heccubernny/heccubernny](https://github.com/Heccubernny/heccubernny)
 <!--END_SECTION:activity-->
+<img src="https://github.com/heccubernny/heccubernny/blob/main/images/stat.svg" alt="Heccubernny Wakatime Activity"/>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->

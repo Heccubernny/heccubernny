@@ -82,8 +82,8 @@ const aboutMe = {
 - ⚡ Activites-
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/Heccubernny/heccubernny/issues/2) in [Heccubernny/heccubernny](https://github.com/Heccubernny/heccubernny)
-2. ❗️ Opened issue [#1](https://github.com/Heccubernny/heccubernny/issues/1) in [Heccubernny/heccubernny](https://github.com/Heccubernny/heccubernny)
+1. ❗️ Closed issue [#1](https://github.com/Heccubernny/intermediate-node-course/issues/1) in [Heccubernny/intermediate-node-course](https://github.com/Heccubernny/intermediate-node-course)
+2. 🗣 Commented on [#1](https://github.com/Heccubernny/intermediate-node-course/issues/1) in [Heccubernny/intermediate-node-course](https://github.com/Heccubernny/intermediate-node-course)
 <!--END_SECTION:activity-->
 <img src="https://github.com/heccubernny/heccubernny/blob/main/images/stat.svg" alt="Heccubernny Wakatime Activity"/>
 

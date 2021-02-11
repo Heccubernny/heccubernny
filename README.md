@@ -92,6 +92,9 @@ const aboutMe = {
 <img src="https://github.com/heccubernny/heccubernny/blob/main/images/stat.svg" alt="Heccubernny Wakatime Activity"/>
 
 <!--START_SECTION:waka-->
+```text
+JavaScript   1 min           █████████████████████████   100.00 % 
+```
 <!--END_SECTION:waka-->
 
 <!-- BLOG-POST-LIST:START -->

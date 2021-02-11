@@ -80,7 +80,11 @@ const aboutMe = {
   <img alig src="https://github-profile-trophy.vercel.app/?username=heccubernny&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p>
 - ⚡ Activites-
+<!-- START_SECTION:waka -->
 
+<!-- END_SECTION:waka -->
+<!-- TODO-IST:START -->
+<!-- TODO-IST:END -->
 <!--START_SECTION:activity-->
 1. ❗️ Closed issue [#1](https://github.com/Heccubernny/intermediate-node-course/issues/1) in [Heccubernny/intermediate-node-course](https://github.com/Heccubernny/intermediate-node-course)
 2. 🗣 Commented on [#1](https://github.com/Heccubernny/intermediate-node-course/issues/1) in [Heccubernny/intermediate-node-course](https://github.com/Heccubernny/intermediate-node-course)

@@ -93,11 +93,7 @@ const aboutMe = {
 
 <!--START_SECTION:waka-->
 ```text
-Python       30 mins         ███████████░░░░░░░░░░░░░░   44.57 % 
-Other        12 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.62 % 
-HTML         11 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.67 % 
-PHP          5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
-JavaScript   3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 

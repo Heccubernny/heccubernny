@@ -93,7 +93,8 @@ const aboutMe = {
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+CSS          15 mins         ███████████████▒░░░░░░░░░   60.90 % 
+JavaScript   9 mins          █████████░░░░░░░░░░░░░░░░   36.38 % 
 ```
 <!--END_SECTION:waka-->
 

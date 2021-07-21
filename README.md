@@ -93,7 +93,8 @@ const aboutMe = {
 
 <!--START_SECTION:waka-->
 ```text
-
+C            18 mins         ███████████████████████▒░   93.45 % 
+JSON         1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
 ```
 <!--END_SECTION:waka-->
 

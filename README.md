@@ -93,7 +93,13 @@ const aboutMe = {
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Total: 6 hrs 50 mins
+
+JavaScript   6 hrs 9 mins    ██████████████████████▒░░   89.86 % 
+CSS          16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
+XML          9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
+HTML         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+JSON         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
 ```
 <!--END_SECTION:waka-->
 

@@ -93,13 +93,13 @@ const aboutMe = {
 
 <!--START_SECTION:waka-->
 ```text
-Total: 11 hrs 41 mins
+Total: 18 hrs 3 mins
 
-JavaScript   10 hrs 13 mins  █████████████████████░░░░   83.81 % 
-Python       43 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-Other        30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
-CSS          17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
-XML          9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+JavaScript   14 hrs 44 mins  ████████████████████░░░░░   79.38 % 
+EJS          1 hr 2 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
+Python       43 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
+HTML         39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
+Other        30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
 ```
 <!--END_SECTION:waka-->
 

@@ -93,8 +93,6 @@ const aboutMe = {
 
 <!--START_SECTION:waka-->
 ```text
-Total: 22 hrs 18 mins
-
 JavaScript   17 hrs 47 mins  ███████████████████▒░░░░░   77.47 % 
 JSON         1 hr 23 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
 EJS          1 hr 4 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 

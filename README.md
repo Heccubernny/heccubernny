@@ -92,13 +92,16 @@ const aboutMe = {
 <img src="https://github.com/heccubernny/heccubernny/blob/main/images/stat.svg" alt="Heccubernny Wakatime Activity"/>
 
 <!--START_SECTION:waka-->
+
 ```text
-JavaScript   7 hrs 51 mins   ██████████████████▓░░░░░░   75.15 % 
-TypeScript   1 hr 22 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.09 % 
-JSON         1 hr 6 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
-CSS          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
-Python       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+JavaScript   7 hrs 51 mins   ██████████████████▓░░░░░░   75.15 %
+TypeScript   1 hr 22 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.09 %
+JSON         1 hr 6 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.67 %
+CSS          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+Python       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
+
 <!--END_SECTION:waka-->
 
 <!-- BLOG-POST-LIST:START -->

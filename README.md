@@ -105,6 +105,7 @@ Markdown     0 secs          ░░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 <!-- BLOG-POST-LIST:START -->
+- [WEB 2 VS WEB 3](https://dev.to/heccubernny/web-2-vs-web-3-56af)
 - [Learning the skills required to system administrate a remote Linux server from the Command-Line.](https://dev.to/heccubernny/learning-the-skills-required-to-system-administrate-a-remote-linux-server-from-the-command-line-4lh3)
 <!-- BLOG-POST-LIST:END -->
 

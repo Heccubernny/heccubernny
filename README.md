@@ -46,7 +46,7 @@ const aboutMe = {
    challenge: "I'm working on improving my social networking life.",
 };
 ```
-<a href="https://app.daily.dev/Heccubernny"><img src="https://api.daily.dev/devcards/fa109b75b16745078427d3dd3a6d55b9.png?r=fam" width="400" alt="Ikubanni Paul's Dev Card"/></a>
+<a href="https://app.daily.dev/Heccubernny"><img src="https://github.com/Heccubernny/heccubernny/blob/main/devcard.svg" width="400" alt="Ikubanni Paul's Dev Card"/></a>
 </br></br>
 <h2>💻 My Actions stats: 💻</h2>
 

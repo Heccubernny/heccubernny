@@ -94,12 +94,12 @@ const aboutMe = {
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   2 hrs 52 mins   ██████████░░░░░░░░░░░░░░░   40.19 %
-JavaScript   2 hrs 33 mins   █████████░░░░░░░░░░░░░░░░   35.69 %
-JSON         1 hr 37 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.59 %
-CSS          3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
+TypeScript   2 hrs 52 mins   ██████████░░░░░░░░░░░░░░░   39.87 %
+JavaScript   2 hrs 33 mins   █████████░░░░░░░░░░░░░░░░   35.41 %
+JSON         1 hr 39 mins    █████▓░░░░░░░░░░░░░░░░░░░   23.05 %
+CSS          3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
 Python       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
 
 <!--END_SECTION:waka-->

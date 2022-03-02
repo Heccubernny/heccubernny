@@ -4,6 +4,9 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=heccubernny.heccubernny)
 
 
+
+
+
 ```python
 class aboutme():
   def __init__(self, name, pronoun):
@@ -43,7 +46,7 @@ const aboutMe = {
    challenge: "I'm working on improving my social networking life.",
 };
 ```
-
+<a href="https://app.daily.dev/Heccubernny"><img src="https://api.daily.dev/devcards/fa109b75b16745078427d3dd3a6d55b9.png?r=fam" width="400" alt="Ikubanni Paul's Dev Card"/></a>
 </br></br>
 <h2>💻 My Actions stats: 💻</h2>
 
@@ -123,12 +126,12 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 ![Django](https://img.shields.io/badge/Django%20-%23E34F26.svg?&style=for-the-badge&logo=Django&logoColor=white)
 
 
-***Programming Language***
-<code><img height="50" src="https://image.flaticon.com/icons/svg/2535/2535543.svg"></code>
+<!-- ***Programming Language*** -->
+<!-- <code><img height="50" src="https://image.flaticon.com/icons/svg/2535/2535543.svg"></code>
 <code><img height="50" src="https://image.flaticon.com/icons/svg/2721/2721297.svg"></code>
 <code><img height="50" src="https://www.flaticon.com/svg/static/icons/svg/136/136530.svg"></code>
 <code><img height="50" src="https://www.flaticon.com/svg/static/icons/svg/528/528261.svg"></code>
-<code><img height="50" src="https://www.flaticon.com/svg/static/icons/svg/2535/2535523.svg"></code>
+<code><img height="50" src="https://www.flaticon.com/svg/static/icons/svg/2535/2535523.svg"></code> -->
 <br></br>
 ***Misc Tools***
 ![Vim](https://img.shields.io/badge/-VIM-2B9348?style=for-the-badge&logo=vim)

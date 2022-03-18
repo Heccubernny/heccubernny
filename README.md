@@ -89,8 +89,8 @@ const aboutMe = {
 <!-- TODO-IST:START -->
 <!-- TODO-IST:END -->
 <!--START_SECTION:activity-->
-1. ❗️ Reopened issue [#2](https://github.com/Heccubernny/intermediate-node-course/issues/2) in [Heccubernny/intermediate-node-course](https://github.com/Heccubernny/intermediate-node-course)
-2. 🗣 Commented on [#2](https://github.com/Heccubernny/intermediate-node-course/issues/2) in [Heccubernny/intermediate-node-course](https://github.com/Heccubernny/intermediate-node-course)
+1. 🎉 Merged PR [#1](https://github.com/Heccubernny/alx-pre_course/pull/1) in [Heccubernny/alx-pre_course](https://github.com/Heccubernny/alx-pre_course)
+2. 💪 Opened PR [#1](https://github.com/Heccubernny/alx-pre_course/pull/1) in [Heccubernny/alx-pre_course](https://github.com/Heccubernny/alx-pre_course)
 <!--END_SECTION:activity-->
 <img src="https://github.com/heccubernny/heccubernny/blob/main/images/stat.svg" alt="Heccubernny Wakatime Activity"/>
 

@@ -89,8 +89,8 @@ const aboutMe = {
 <!-- TODO-IST:START -->
 <!-- TODO-IST:END -->
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](https://github.com/Heccubernny/alx-pre_course/pull/5) in [Heccubernny/alx-pre_course](https://github.com/Heccubernny/alx-pre_course)
-2. 🎉 Merged PR [#3](https://github.com/Heccubernny/alx-pre_course/pull/3) in [Heccubernny/alx-pre_course](https://github.com/Heccubernny/alx-pre_course)
+1. ❌ Closed PR [#5](https://github.com/Heccubernny/alx-pre_course/pull/5) in [Heccubernny/alx-pre_course](https://github.com/Heccubernny/alx-pre_course)
+2. 💪 Opened PR [#5](https://github.com/Heccubernny/alx-pre_course/pull/5) in [Heccubernny/alx-pre_course](https://github.com/Heccubernny/alx-pre_course)
 <!--END_SECTION:activity-->
 <img src="https://github.com/heccubernny/heccubernny/blob/main/images/stat.svg" alt="Heccubernny Wakatime Activity"/>
 

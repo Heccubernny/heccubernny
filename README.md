@@ -97,12 +97,12 @@ const aboutMe = {
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript       7 hrs 17 mins   ██████████▒░░░░░░░░░░░░░░   41.41 %
-Blade Template   5 hrs 6 mins    ███████▒░░░░░░░░░░░░░░░░░   29.05 %
-PHP              2 hrs 56 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.73 %
-HTML             36 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 %
-Python           33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 %
-TypeScript       24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
+JavaScript       5 hrs 48 mins   █████████░░░░░░░░░░░░░░░░   35.51 %
+Blade Template   5 hrs 6 mins    ███████▓░░░░░░░░░░░░░░░░░   31.23 %
+PHP              2 hrs 56 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.98 %
+HTML             53 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 %
+Python           33 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 %
+TypeScript       24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
 ```
 
 <!--END_SECTION:waka-->

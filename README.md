@@ -1,9 +1,22 @@
 ### Hi there, 👋🏼 I'm Heccubernny.
+
+```
+. 👋 Hi, I’m Paul Ikubanni
+. 👀 I’m a 20 years old Software Developer
+. 👀 Lover of Artificial Intelligence (AI) and Space Advocacy
+. 🌱 I’m currently into Data Science, with the help of amazing tools like pandas, numpy, matplotlib, seaborn, keras and scikit-learn
+. 📫 I'm currently working on Data Science Project for my learning curve
+. 🌱 Your and my growth are most essential, you can reach me out for any question
+. 💞️ I’m looking to collaborate on any web project using Django, Laravel, React, and Express
+```
+. 📫 You can reach via my mail @ -<ikubannip@gmail.com>
+
 [![Actions Status](https://github.com/heccubernny/heccubernny/workflows/wakatime-stats/badge.svg)](https://github.com/heccubernny/heccubernny/actions)
 [![Actions Status](https://github.com/heccubernny/heccubernny/workflows/update-gh-activity/badge.svg)](https://github.com/heccubernny/heccubernny/actions)
 ![](https://visitor-badge.glitch.me/badge?page_id=heccubernny.heccubernny)
 
 
+<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=heccubernny&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px" alt="Codersrank" height="40" style="vertical-align:top; margin:4px">
 
 
 
@@ -24,22 +37,22 @@ myself.show()
 Solve the simple puzzle to know my name and pronoun
 
 ```javascript
-technologyLanguages = [HTML, CSS, Javascript,  Python, Java]
-technologyLibraries = [React Js, Angular Js, Laravel, Django]
+technologyLanguages = [Javascript,  Python, PHP, Java]
+technologyLibraries = [React Js, Next Js, Laravel, Django]
 const aboutMe = {
    pronouns: "he" | "him",
-   code: [HTML, CSS, Javascript, Python, Java],
-   WebTechnologies: {
+   code: [Javascript, Python, Java],
+   webTechnologies: {
       frontEnd: {
          js: ["React", "Angular"],
          css: ["Bootstrap", "Material Design", "Materialize"]
       },
       backEnd: {
-         Python: ["Django"],
-         js: ["Node"],
-         others: ["Bash", "Selenium"]
+         python: ["Django, pandas, numpy, matplotlib, seaborn"],
+         js: ["Node, react, next, express"],
+         others: []
       },
-      databases: ["mySQL", "SQLite3"]
+      databases: ["mySQL", "SQLite3", "Postgresql", "MongoDB"]
       
    },
    currently: ["First year undergraduate student, open for job and internship opportunities"],
@@ -68,24 +81,20 @@ const aboutMe = {
 
 <!--[![Heccubernny's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Heccubernny)](https://github.com/Heccubernny)--!>
 
-- 🔭 I’m currently working on - Personal Project - A Hotel Management System using Laravel
-- 🌱 I’m currently learning - Machine Learning
-- 👯 I’m looking to collaborate on - any project that deals with web, both frontend and backend, Open Source Project
-- 🤔 I’m looking for help with - Internship or Part-time Job
-<br>
-- 📫 How to reach me -<ipom4eva@gmail.com>;
-
 <p><a href="https://www.twitter.com/ikubanni_paul"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/ikubannipaul"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/heccubernny1/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> <a href="https://medium.com/@ipom4eva"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> <a href="https://dev.to/heccubernny"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a></p>
+
+
 
 
 - 😄 Pronouns - He/ His/ Him
 <p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=heccubernny&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
+ <img align src="https://github-profile-trophy.vercel.app/?username=heccubernny&theme=onedark&column=6&rank=SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy"/>
 </p>
 - ⚡ Activites-
 <!-- START_SECTION:waka -->
 
 <!-- END_SECTION:waka -->
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=heccubernny&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!-- TODO-IST:START -->
 <!-- TODO-IST:END -->
 <!--START_SECTION:activity-->
@@ -94,53 +103,92 @@ const aboutMe = {
 <!--END_SECTION:activity-->
 <img src="https://github.com/heccubernny/heccubernny/blob/main/images/stat.svg" alt="Heccubernny Wakatime Activity"/>
 
-<!--START_SECTION:waka-->
 
-```text
-JavaScript       9 hrs 22 mins   █████████▓░░░░░░░░░░░░░░░   38.32 %
-Blade Template   7 hrs 34 mins   ███████▓░░░░░░░░░░░░░░░░░   30.95 %
-PHP              4 hrs 3 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.55 %
-TypeScript       2 hrs 10 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.90 %
-HTML             42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 %
-CSS              23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
-```
-
-<!--END_SECTION:waka-->
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=heccubernny&theme=dark)](https://git.io/streak-stats)
+<br/><br/>
+***Dev Articles***
 <!-- BLOG-POST-LIST:START -->
 - [Why do you need a community?](https://dev.to/heccubernny/why-do-you-need-a-community-3og0)
 - [WEB 2 VS WEB 3](https://dev.to/heccubernny/web-2-vs-web-3-56af)
 - [Learning the skills required to system administrate a remote Linux server from the Command-Line.](https://dev.to/heccubernny/learning-the-skills-required-to-system-administrate-a-remote-linux-server-from-the-command-line-4lh3)
 <!-- BLOG-POST-LIST:END -->
-
+***Stackoverflow Contributions***
 <!-- STACKOVERFLOW:START -->
 <!-- STACKOVERFLOW:END -->
 
 **Languages and Tools:**  
 ***Web Tools***
-![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap4](https://img.shields.io/badge/Bootstrap%20-%23E34F26.svg?&style=for-the-badge&logo=bootstrap&ogoColor=white)
-![React Js](https://img.shields.io/badge/React%20Js%20-%2300599C.svg?&style=for-the-badge&logo=React&ogoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel%20-%23E34F26.svg?&style=for-the-badge&logo=Laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL%20-%2300599C.svg?&style=for-the-badge&logo=mysql&logoColor=white)
-![Django](https://img.shields.io/badge/Django%20-%23E34F26.svg?&style=for-the-badge&logo=Django&logoColor=white)
+<p align="center">
 
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+  
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+      <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="cpp" height="40"
+style="vertical-align:top; margin: 4px">
+ 
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px"> 
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px"> 
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/google/google.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px"> 
 
-<!-- ***Programming Language*** -->
-<!-- <code><img height="50" src="https://image.flaticon.com/icons/svg/2535/2535543.svg"></code>
-<code><img height="50" src="https://image.flaticon.com/icons/svg/2721/2721297.svg"></code>
-<code><img height="50" src="https://www.flaticon.com/svg/static/icons/svg/136/136530.svg"></code>
-<code><img height="50" src="https://www.flaticon.com/svg/static/icons/svg/528/528261.svg"></code>
-<code><img height="50" src="https://www.flaticon.com/svg/static/icons/svg/2535/2535523.svg"></code> -->
+  
+  
+ </p>
+  
+  
+***Programming Language***
+<p align="center">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/powershell/powershell.png" alt="cpp" height="40"
+style="vertical-align:top; margin: 4px">
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+
+  
+
 <br></br>
+## Currently Learning
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="cpp" height="40"
+style="vertical-align:top; margin: 4px">
+        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="cpp" height="40"
+style="vertical-align:top; margin: 4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp" height="40"
+style="vertical-align:top; margin: 4px">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" alt="cpp" height="40"
+style="vertical-align:top; margin: 4px">
+  </p>
+## To Learn in the Future:
+<p align="center">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bitcoin/bitcoin.png" alt="cpp" height="40"
+style="vertical-align:top; margin: 4px">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" alt="cpp" height="40"
+style="vertical-align:top; margin: 4px">
+       <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" alt="cpp" height="40"
+style="vertical-align:top; margin: 4px">
+     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ethereum/ethereum.png" alt="cpp" height="40"
+style="vertical-align:top; margin: 4px">
+</p>  
+  
 ***Misc Tools***
-![Vim](https://img.shields.io/badge/-VIM-2B9348?style=for-the-badge&logo=vim)
-![VSCode](https://img.shields.io/badge/-vscode-00a8e8?style=for-the-badge&logo=visual-studio-code)
-![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-linux-772953?style=for-the-badge&logo=linux)
-![Trello](https://img.shields.io/badge/Trello%20-%23F05033.svg?&style=for-the-badge&logo=trello&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma%20-%23F05033.svg?&style=for-the-badge&logo=figma&logoColor=white)
+  <p align="center">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+  
+</p>
+  
+
 
 
 

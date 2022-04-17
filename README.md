@@ -1,4 +1,5 @@
-### Hi there, 👋🏼 I'm Heccubernny.
+<h1 align="center">Paul Ikubanni (Heccubernny)</h1>
+<h2 align="center"><strong>I’m a software Enginner</strong></h2>
 
 ```
 . 👋 Hi, I’m Paul Ikubanni
@@ -6,7 +7,8 @@
 . 👀 Lover of Artificial Intelligence (AI) and Space Advocacy
 . 🌱 I’m currently into Data Science, with the help of amazing tools like pandas, numpy, matplotlib, seaborn, keras and scikit-learn
 . 📫 I'm currently working on Data Science Project for my learning curve
-. 🌱 Your and my growth are most essential, you can reach me out for any question
+. 🎟 I’m interested in Machine Learning and Cybersecurity (MLOPS)
+. 🌱 Your and my growth are most essential, you can reach out to me for any question
 . 💞️ I’m looking to collaborate on any web project using Django, Laravel, React, and Express
 ```
 . 📫 You can reach via my mail @ -<ikubannip@gmail.com>

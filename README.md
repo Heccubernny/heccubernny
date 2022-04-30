@@ -100,8 +100,8 @@ const aboutMe = {
 <!-- TODO-IST:START -->
 <!-- TODO-IST:END -->
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#5](https://github.com/Heccubernny/alx-pre_course/pull/5) in [Heccubernny/alx-pre_course](https://github.com/Heccubernny/alx-pre_course)
-2. 💪 Opened PR [#5](https://github.com/Heccubernny/alx-pre_course/pull/5) in [Heccubernny/alx-pre_course](https://github.com/Heccubernny/alx-pre_course)
+1. ❌ Reopened PR [#1](https://github.com/7emmytim/respirar/pull/1) in [7emmytim/respirar](https://github.com/7emmytim/respirar)
+2. ❌ Closed PR [#1](https://github.com/7emmytim/respirar/pull/1) in [7emmytim/respirar](https://github.com/7emmytim/respirar)
 <!--END_SECTION:activity-->
 <img src="https://github.com/heccubernny/heccubernny/blob/main/images/stat.svg" alt="Heccubernny Wakatime Activity"/>
 

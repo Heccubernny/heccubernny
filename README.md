@@ -100,8 +100,8 @@ const aboutMe = {
 <!-- TODO-IST:START -->
 <!-- TODO-IST:END -->
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/Heccubernny/hello-github-actions/pull/2) in [Heccubernny/hello-github-actions](https://github.com/Heccubernny/hello-github-actions)
-2. ❌ Reopened PR [#1](https://github.com/7emmytim/respirar/pull/1) in [7emmytim/respirar](https://github.com/7emmytim/respirar)
+1. ❗️ Closed issue [#1](https://github.com/Heccubernny/design-thinking-intro/issues/1) in [Heccubernny/design-thinking-intro](https://github.com/Heccubernny/design-thinking-intro)
+2. ❗️ Reopened issue [#1](https://github.com/Heccubernny/design-thinking-intro/issues/1) in [Heccubernny/design-thinking-intro](https://github.com/Heccubernny/design-thinking-intro)
 <!--END_SECTION:activity-->
 <img src="https://github.com/heccubernny/heccubernny/blob/main/images/stat.svg" alt="Heccubernny Wakatime Activity"/>
 

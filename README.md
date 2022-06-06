@@ -3,15 +3,15 @@
 
 ```
 . 👋 Hi, I’m Paul Ikubanni
-. 👀 I’m a 20 years old Software Developer
+. 👀 I’m a Software Developer
 . 👀 Lover of Artificial Intelligence (AI) and Space Advocacy
 . 🌱 I’m currently into Data Science, with the help of amazing tools like pandas, numpy, matplotlib, seaborn, keras and scikit-learn
-. 📫 I'm currently working on Data Science Project for my learning curve
+. 📫 I'm currently working on Data Science Projects for my learning curve
 . 🎟 I’m interested in Machine Learning and Cybersecurity (MLOPS)
 . 🌱 Your and my growth are most essential, you can reach out to me for any question
 . 💞️ I’m looking to collaborate on any web project using Django, Laravel, React, and Express
 ```
-. 📫 You can reach via my mail @ -<ikubannip@gmail.com>
+. 📫 You can reach via my mail @ -<ipom4eva@gmail.com>
 
 [![Actions Status](https://github.com/heccubernny/heccubernny/workflows/wakatime-stats/badge.svg)](https://github.com/heccubernny/heccubernny/actions)
 [![Actions Status](https://github.com/heccubernny/heccubernny/workflows/update-gh-activity/badge.svg)](https://github.com/heccubernny/heccubernny/actions)
@@ -60,6 +60,21 @@ const aboutMe = {
    currently: ["First year undergraduate student, open for job and internship opportunities"],
    challenge: "I'm working on improving my social networking life.",
 };
+```
+
+```csharp
+
+using System;
+namespace Heccubernny {
+  class developer {
+  //Construtor still loading :)
+  
+    static void Main(string[] args){
+      Console.WriteLine("Still Learning");
+    }
+  }
+}
+
 ```
 <a href="https://app.daily.dev/Heccubernny"><img src="https://github.com/Heccubernny/heccubernny/blob/main/devcard.svg" width="400" alt="Ikubanni Paul's Dev Card"/></a>
 </br></br>

@@ -115,8 +115,8 @@ namespace Heccubernny {
 <!-- TODO-IST:START -->
 <!-- TODO-IST:END -->
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](https://github.com/Heccubernny/github-actions-for-ci/pull/5) in [Heccubernny/github-actions-for-ci](https://github.com/Heccubernny/github-actions-for-ci)
-2. ❗️ Closed issue [#1](https://github.com/Heccubernny/github-actions-for-ci/issues/1) in [Heccubernny/github-actions-for-ci](https://github.com/Heccubernny/github-actions-for-ci)
+1. 💪 Opened PR [#6](https://github.com/Heccubernny/github-actions-for-ci/pull/6) in [Heccubernny/github-actions-for-ci](https://github.com/Heccubernny/github-actions-for-ci)
+2. 💪 Opened PR [#5](https://github.com/Heccubernny/github-actions-for-ci/pull/5) in [Heccubernny/github-actions-for-ci](https://github.com/Heccubernny/github-actions-for-ci)
 <!--END_SECTION:activity-->
 <img src="https://github.com/heccubernny/heccubernny/blob/main/images/stat.svg" alt="Heccubernny Wakatime Activity"/>
 

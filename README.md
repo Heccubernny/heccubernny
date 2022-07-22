@@ -108,7 +108,7 @@ namespace Heccubernny {
 <!-- TODO-IST:END -->
 <h3>Pull Request</h3>
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#155928](https://github.com/microsoft/vscode/issues/155928) in [microsoft/vscode](https://github.com/microsoft/vscode)
+1. 💪 Opened PR [#27](https://github.com/ericspring08/Awesome-Programming-Languages/pull/27) in [ericspring08/Awesome-Programming-Languages](https://github.com/ericspring08/Awesome-Programming-Languages)
 2. 🗣 Commented on [#155928](https://github.com/microsoft/vscode/issues/155928) in [microsoft/vscode](https://github.com/microsoft/vscode)
 <!--END_SECTION:activity-->
 

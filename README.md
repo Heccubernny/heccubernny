@@ -108,8 +108,8 @@ namespace Heccubernny {
 <!-- TODO-IST:END -->
 <h3>Pull Request</h3>
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com/Heccubernny/github-actions-for-ci/pull/6) in [Heccubernny/github-actions-for-ci](https://github.com/Heccubernny/github-actions-for-ci)
-2. 💪 Opened PR [#5](https://github.com/Heccubernny/github-actions-for-ci/pull/5) in [Heccubernny/github-actions-for-ci](https://github.com/Heccubernny/github-actions-for-ci)
+1. 🗣 Commented on [#155928](https://github.com/microsoft/vscode/issues/155928) in [microsoft/vscode](https://github.com/microsoft/vscode)
+2. 🗣 Commented on [#155928](https://github.com/microsoft/vscode/issues/155928) in [microsoft/vscode](https://github.com/microsoft/vscode)
 <!--END_SECTION:activity-->
 
 

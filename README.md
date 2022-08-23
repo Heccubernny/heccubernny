@@ -48,17 +48,19 @@ const aboutMe = {
    code: [Javascript, Python, Java],
    webTechnologies: {
       frontEnd: {
-         js: ["React", "Angular"],
-         css: ["Bootstrap", "Material Design", "Materialize"]
+         js: ["React"],
+         css: ["Bootstrap", "TailwindCSS"]
       },
       backEnd: {
-         python: ["Django, pandas, numpy, matplotlib, seaborn"],
-         js: ["Node, react, next, express"],
-         others: []
+          "Django", "Laravel", "ASP.NET (WEB API)", "Node", "NextJS", "ExpressJS",
       },
-      databases: ["mySQL", "SQLite3", "Postgresql", "MongoDB"]
+      databases: ["mySQL", "SQLite3", "Postgresql", "MongoDB"],
       
    },
+   
+   mlTechnologies{
+    "Numpy", "Pandas", "Matplotlib", "Seaborn", "Plotly", "Scikit-Learn"
+   }
    currently: ["First year undergraduate student, open for job and internship opportunities"],
    challenge: "I'm working on improving my social networking life.",
 };

@@ -80,7 +80,11 @@ namespace Heccubernny {
 }
 
 ```
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=315w4imye4v2tqtkrqmqqylb44ui&cover_image=true&theme=default&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=315w4imye4v2tqtkrqmqqylb44ui&redirect=true)
+
 <details>
+
+
 <summary>Daily.dev Card</summary>
 <a href="https://app.daily.dev/Heccubernny"><img src="https://github.com/Heccubernny/heccubernny/blob/main/devcard.svg" width="400" alt="Ikubanni Paul's Dev Card"/></a>
 </details>

@@ -114,8 +114,8 @@ namespace Heccubernny {
 <!-- TODO-IST:END -->
 <h3>Pull Request</h3>
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2623](https://github.com/ripienaar/free-for-dev/pull/2623) in [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)
-2. 🎉 Merged PR [#1](https://github.com/Heccubernny/ecom-kiosk/pull/1) in [Heccubernny/ecom-kiosk](https://github.com/Heccubernny/ecom-kiosk)
+1. 🗣 Commented on [#2623](https://github.com/ripienaar/free-for-dev/issues/2623) in [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)
+2. 💪 Opened PR [#2623](https://github.com/ripienaar/free-for-dev/pull/2623) in [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)
 <!--END_SECTION:activity-->
 
 

@@ -114,8 +114,8 @@ namespace Heccubernny {
 <!-- TODO-IST:END -->
 <h3>Pull Request</h3>
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2623](https://github.com/ripienaar/free-for-dev/issues/2623) in [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)
-2. 💪 Opened PR [#2623](https://github.com/ripienaar/free-for-dev/pull/2623) in [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)
+1. ❗️ Opened issue [#9003](https://github.com/microsoft/WSL/issues/9003) in [microsoft/WSL](https://github.com/microsoft/WSL)
+2. 🗣 Commented on [#2623](https://github.com/ripienaar/free-for-dev/issues/2623) in [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)
 <!--END_SECTION:activity-->
 
 

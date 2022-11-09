@@ -5,8 +5,9 @@
 . 👋 Hi, I’m Paul Ikubanni
 . 👀 I’m a Software Developer
 . 👀 Lover of Artificial Intelligence (AI) and Space Advocacy
-. 🌱 I’m currently into Data Science, with the help of amazing tools like pandas, numpy, matplotlib, seaborn, keras and scikit-learn
-. 📫 I'm currently working on Data Science Projects and and Website Applications
+. 🌱 I’m currently into Data Science, with the help of amazing tools like  
+      pandas, numpy, matplotlib, seaborn, keras and scikit-learn
+. 📫 I'm currently working on Data Science Projects and Website Applications
 . 🎟 I’m interested in Machine Learning and Cybersecurity (MLOPS)
 . 🌱 Your and my growth are most essential, you can reach out to me for any question
 . 💞️ I’m looking to collaborate on any web project using Django, Laravel, React, and Express

@@ -1,27 +1,29 @@
 <h1 align="center">Paul Ikubanni (Heccubernny)</h1>
-<h2 align="center"><strong>I’m a software Enginner</strong></h2>
+<h2 align="center"><strong>I’m a Software Enginner</strong></h2>
 
 ```
 . 👋 Hi, I’m Paul Ikubanni
 . 👀 I’m a Software Developer
 . 👀 Lover of Artificial Intelligence (AI) and Space Advocacy
-. 🌱 I’m currently into Data Science, with the help of amazing tools like  
-      pandas, numpy, matplotlib, seaborn, keras and scikit-learn
-. 📫 I'm currently working on Data Science Projects and Website Applications
-. 🎟 I’m interested in Machine Learning and Cybersecurity (MLOPS)
-. 🌱 Your and my growth are most essential, you can reach out to me for any question
-. 💞️ I’m looking to collaborate on any web project using Django, Laravel, React, and Express
+. 🌱 I’m currently working toward learn about AI, Data Science, with the help of amazing tools like python, 
+      pandas, numpy, matplotlib, seaborn and scikit-learn
+. 📫 I'm currently also working on improving my website development skills
+. 🎟 I’m interested in Machine Learning applied with cybersecurity
+. 💞️ I’m looking to collaborate on any web project using Django, Laravel, React, and Express, to improve my knowledge boundaries.
 . 😄 Pronouns - He/ His/ Him
 ```
-. 📫 You can reach via my mail @ -<ipom4eva@gmail.com>
-
+. 📫 You can reach via my mail @ - <ikubannip@gmail.com>
+<!--
 [![Actions Status](https://github.com/heccubernny/heccubernny/workflows/wakatime-stats/badge.svg)](https://github.com/heccubernny/heccubernny/actions)
+
 [![Actions Status](https://github.com/heccubernny/heccubernny/workflows/update-gh-activity/badge.svg)](https://github.com/heccubernny/heccubernny/actions)
+-->
 ![Visitor Count:](https://visitor-badge.glitch.me/badge?page_id=heccubernny.heccubernny)
 [![Total Code Time](https://wakatime.com/badge/user/71f104ff-4418-452a-883e-838651f90638.svg)](https://wakatime.com/@71f104ff-4418-452a-883e-838651f90638)
 
-
+<!--
 <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=heccubernny&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px" alt="Codersrank" height="250" width="500" style="vertical-align:top; margin:4px">
+-->
 
 
 
@@ -63,25 +65,13 @@ const aboutMe = {
     "Numpy", "Pandas", "Matplotlib", "Seaborn", "Plotly", "Scikit-Learn"
    }
    currently: ["First year undergraduate student, open for job and internship opportunities"],
-   challenge: "I'm working on improving my social networking life.",
+   challenge: "I'm working on improving my social networking life as I devoted my time improving on myself and helping others.",
 };
 ```
 
-```csharp
-
-using System;
-namespace Heccubernny {
-  class developer {
-  //Construtor still loading :)
-  
-    static void Main(string[] args){
-      Console.WriteLine("Still Learning");
-    }
-  }
-}
-
-```
+<!--
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=315w4imye4v2tqtkrqmqqylb44ui&cover_image=true&theme=default&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=315w4imye4v2tqtkrqmqqylb44ui&redirect=true)
+-->
 
 <details>
 

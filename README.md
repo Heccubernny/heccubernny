@@ -1,9 +1,9 @@
 <h1 align="center">Paul Ikubanni (Heccubernny)</h1>
-<h2 align="center"><strong>I’m a Software Enginner</strong></h2>
+<h2 align="center"><strong>I’m an Undergraduate and Software Developer</strong></h2>
 
 ```
 . 👋 Hi, I’m Paul Ikubanni
-. 👀 I’m a Software Developer
+. 👀 I’m a Software Developer and Undergradute
 . 👀 Lover of Artificial Intelligence (AI) and Space Advocacy
 . 🌱 I’m currently working toward learn about AI, Data Science, with the help of amazing tools like python, 
       pandas, numpy, matplotlib, seaborn and scikit-learn

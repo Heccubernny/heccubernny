@@ -105,7 +105,7 @@ const aboutMe = {
 <!-- TODO-IST:END -->
 <h3>Pull Request</h3>
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9003](https://github.com/microsoft/WSL/issues/9003) in [microsoft/WSL](https://github.com/microsoft/WSL)
+1. 🗣 Commented on [#1070](https://github.com/AppFlowy-IO/AppFlowy/issues/1070) in [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)
 2. ❗️ Closed issue [#9003](https://github.com/microsoft/WSL/issues/9003) in [microsoft/WSL](https://github.com/microsoft/WSL)
 <!--END_SECTION:activity-->
 

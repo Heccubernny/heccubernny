@@ -105,7 +105,7 @@ const aboutMe = {
 <!-- TODO-IST:END -->
 <h3>Pull Request</h3>
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1069](https://github.com/AppFlowy-IO/AppFlowy/issues/1069) in [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)
+1. ❗ Opened issue [#1](https://github.com/Sosaristic/hrms-system-backend/issues/1) in [Sosaristic/hrms-system-backend](https://github.com/Sosaristic/hrms-system-backend)
 2. 🗣 Commented on [#1069](https://github.com/AppFlowy-IO/AppFlowy/issues/1069) in [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)
 <!--END_SECTION:activity-->
 

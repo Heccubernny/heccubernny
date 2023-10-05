@@ -105,8 +105,8 @@ const aboutMe = {
 <!-- TODO-IST:END -->
 <h3>Pull Request</h3>
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#28](https://github.com/JC-Coder/startease/issues/28) in [JC-Coder/startease](https://github.com/JC-Coder/startease)
-2. 🗣 Commented on [#3](https://github.com/Sosaristic/hrms-system-backend/pull/3#issuecomment-1748142688) in [Sosaristic/hrms-system-backend](https://github.com/Sosaristic/hrms-system-backend)
+1. 💪 Opened PR [#31](https://github.com/JC-Coder/startease/pull/31) in [JC-Coder/startease](https://github.com/JC-Coder/startease)
+2. ❗ Opened issue [#28](https://github.com/JC-Coder/startease/issues/28) in [JC-Coder/startease](https://github.com/JC-Coder/startease)
 <!--END_SECTION:activity-->
 
 

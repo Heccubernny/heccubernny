@@ -105,8 +105,8 @@ const aboutMe = {
 <!-- TODO-IST:END -->
 <h3>Pull Request</h3>
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/Sosaristic/hrms-system/pull/7) in [Sosaristic/hrms-system](https://github.com/Sosaristic/hrms-system)
-2. 🗣 Commented on [#7](https://github.com/Sosaristic/hrms-system/pull/7#issuecomment-1751703944) in [Sosaristic/hrms-system](https://github.com/Sosaristic/hrms-system)
+1. 🗣 Commented on [#5](https://github.com/Judge-Paul/coverwrite-ai/issues/5#issuecomment-1761199972) in [Judge-Paul/coverwrite-ai](https://github.com/Judge-Paul/coverwrite-ai)
+2. 🎉 Merged PR [#7](https://github.com/Sosaristic/hrms-system/pull/7) in [Sosaristic/hrms-system](https://github.com/Sosaristic/hrms-system)
 <!--END_SECTION:activity-->
 
 

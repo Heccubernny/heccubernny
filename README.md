@@ -105,8 +105,8 @@ const aboutMe = {
 <!-- TODO-IST:END -->
 <h3>Pull Request</h3>
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#7](https://github.com/Sosaristic/hrms-system-backend/pull/7) in [Sosaristic/hrms-system-backend](https://github.com/Sosaristic/hrms-system-backend)
-2. 🎉 Merged PR [#18](https://github.com/Sosaristic/hrms-system-backend/pull/18) in [Sosaristic/hrms-system-backend](https://github.com/Sosaristic/hrms-system-backend)
+1. 🗣 Commented on [#6](https://github.com/dsc-unilorin/gdscunilorin/issues/6#issuecomment-1762857728) in [dsc-unilorin/gdscunilorin](https://github.com/dsc-unilorin/gdscunilorin)
+2. ❌ Closed PR [#7](https://github.com/Sosaristic/hrms-system-backend/pull/7) in [Sosaristic/hrms-system-backend](https://github.com/Sosaristic/hrms-system-backend)
 <!--END_SECTION:activity-->
 
 

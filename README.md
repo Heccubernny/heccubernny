@@ -105,8 +105,8 @@ const aboutMe = {
 <!-- TODO-IST:END -->
 <h3>Pull Request</h3>
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#10](https://github.com/dsc-unilorin/gdscunilorin/pull/10) in [dsc-unilorin/gdscunilorin](https://github.com/dsc-unilorin/gdscunilorin)
-2. 🗣 Commented on [#5](https://github.com/Judge-Paul/coverwrite-ai/issues/5#issuecomment-1763332248) in [Judge-Paul/coverwrite-ai](https://github.com/Judge-Paul/coverwrite-ai)
+1. 💪 Opened PR [#54](https://github.com/abeg-help/backend/pull/54) in [abeg-help/backend](https://github.com/abeg-help/backend)
+2. 💪 Opened PR [#10](https://github.com/dsc-unilorin/gdscunilorin/pull/10) in [dsc-unilorin/gdscunilorin](https://github.com/dsc-unilorin/gdscunilorin)
 <!--END_SECTION:activity-->
 
 

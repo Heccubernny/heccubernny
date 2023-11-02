@@ -105,8 +105,8 @@ const aboutMe = {
 <!-- TODO-IST:END -->
 <h3>Pull Request</h3>
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#54](https://github.com/abeg-help/backend/pull/54#issuecomment-1784015271) in [abeg-help/backend](https://github.com/abeg-help/backend)
-2. 🗣 Commented on [#4](https://github.com/dsc-unilorin/gdscunilorin/issues/4#issuecomment-1783484056) in [dsc-unilorin/gdscunilorin](https://github.com/dsc-unilorin/gdscunilorin)
+1. 🗣 Commented on [#4](https://github.com/dsc-unilorin/gdscunilorin/issues/4#issuecomment-1783484056) in [dsc-unilorin/gdscunilorin](https://github.com/dsc-unilorin/gdscunilorin)
+2. 💪 Opened PR [#10](https://github.com/dsc-unilorin/gdscunilorin/pull/10) in [dsc-unilorin/gdscunilorin](https://github.com/dsc-unilorin/gdscunilorin)
 <!--END_SECTION:activity-->
 
 

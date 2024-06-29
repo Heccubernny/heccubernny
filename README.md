@@ -135,6 +135,7 @@ const aboutMe = {
 
 ***Dev Articles***
 <!-- BLOG-POST-LIST:START -->
+- [Solving a Challenging Backend Problem: My Journey with Database Management in Microservices](https://dev.to/heccubernny/solving-a-challenging-backend-problem-my-journey-with-database-management-in-microservices-18l1)
 - [Why do you need a community?](https://dev.to/heccubernny/why-do-you-need-a-community-3og0)
 - [WEB 2 VS WEB 3](https://dev.to/heccubernny/web-2-vs-web-3-56af)
 - [Learning the skills required to system administrate a remote Linux server from the Command-Line.](https://dev.to/heccubernny/learning-the-skills-required-to-system-administrate-a-remote-linux-server-from-the-command-line-4lh3)

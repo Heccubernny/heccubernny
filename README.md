@@ -1,15 +1,15 @@
 <h1 align="center">Paul Ikubanni (Heccubernny)</h1>
-<h2 align="center"><strong>I’m an Undergraduate and Software Developer</strong></h2>
+<h2 align="center"><strong>I’m an Undergraduate and Software Engineer</strong></h2>
 
 ```
 . 👋 Hi, I’m Paul Ikubanni
-. 👀 I’m a Software Developer and Undergradute
-. 👀 Lover of Artificial Intelligence (AI) and Space Advocacy
+. 👀 I’m a Software Engineer and Undergradute
+. 👀 Lover of Artificial Intelligence (AI)
 . 🌱 I’m currently working toward learn about AI, Data Science, with the help of amazing tools like python, 
-      pandas, numpy, matplotlib, seaborn and scikit-learn
-. 📫 I'm currently also working on improving my website development skills
-. 🎟 I’m interested in Machine Learning applied with cybersecurity
-. 💞️ I’m looking to collaborate on any web project using Django, Laravel, React, and Express, to improve my knowledge boundaries.
+      sckit-learn, sckit-image, tensorflow
+. 📫 I'm currently also working on improving my software engineering skills
+. 🎟 I’m interested in Computer vision and Image processing
+. 💞️ I’m looking to collaborate on any web project with application of AI using Django, Laravel, React, and Express, to improve my knowledge boundaries.
 . 😄 Pronouns - He/ His/ Him
 ```
 . 📫 You can reach via my mail @ - <ikubannip@gmail.com>
@@ -22,7 +22,7 @@
 [![Total Code Time](https://wakatime.com/badge/user/71f104ff-4418-452a-883e-838651f90638.svg)](https://wakatime.com/@71f104ff-4418-452a-883e-838651f90638)
 
 <!--
-<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=heccubernny&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px" alt="Codersrank" height="250" width="500" style="vertical-align:top; margin:4px">
+<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=heccubernny&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius o:10px" alt="Codersrank" height="250" width="500" style="vertical-align:top; margin:4px">
 -->
 
 
@@ -34,10 +34,16 @@ class aboutme():
     self.pronoun = pronoun
 
   def show(self):
-    print("My name is ", self.name)
-    print("Pronoun: ", self.pronoun)
+    title = ""
+    if self.pronoun == "He" or self.pronoun == "His" or self.pronoun == "Him":
+      title = "Mr"
+      print("Welcome {0}, {1} ".format(title, self.name))
+    else:
+      title = "Ma"
+      print("Welcome {0}, {1} ".format(title, self.name))
     
-myself = aboutme("Heccubernny", "He/ His/ Him")
+    
+myself = aboutme("Heccubernny", "Him")
 myself.show()
 ```
 
@@ -48,14 +54,14 @@ technologyLanguages = [Javascript,  Python, PHP, Java]
 technologyLibraries = [React Js, Next Js, Laravel, Django]
 const aboutMe = {
    pronouns: "he" | "him",
-   code: [Javascript, Python, Java],
+   code: [Javascript, Python, Java, C#],
    webTechnologies: {
       frontEnd: {
          js: ["React"],
          css: ["Bootstrap", "TailwindCSS"]
       },
       backEnd: {
-          "Django", "Laravel", "ASP.NET (WEB API)", "Node", "NextJS", "ExpressJS",
+          "Django", "Laravel", "ASP.NET (WEB API)", "Node", "NextJS", "ExpressJS", "Spring Boot"
       },
       databases: ["mySQL", "SQLite3", "Postgresql", "MongoDB"],
       
@@ -64,14 +70,14 @@ const aboutMe = {
    mlTechnologies{
     "Numpy", "Pandas", "Matplotlib", "Seaborn", "Plotly", "Scikit-Learn"
    }
-   currently: ["First year undergraduate student, open for job and internship opportunities"],
+   currently: ["Final year undergraduate student, open for job and internship opportunities"],
    challenge: "I'm working on improving my social networking life as I devoted my time improving on myself and helping others.",
 };
 ```
 
-<!--
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=315w4imye4v2tqtkrqmqqylb44ui&cover_image=true&theme=default&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=315w4imye4v2tqtkrqmqqylb44ui&redirect=true)
--->
+
 
 <details>
 

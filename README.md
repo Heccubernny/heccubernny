@@ -111,8 +111,8 @@ const aboutMe = {
 <!-- TODO-IST:END -->
 <h3>Pull Request</h3>
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#197](https://github.com/hngprojects/hng_boilerplate_nestjs/issues/197) in [hngprojects/hng_boilerplate_nestjs](https://github.com/hngprojects/hng_boilerplate_nestjs)
-2. ❗ Opened issue [#1](https://github.com/Heccubernny/workshop/issues/1) in [Heccubernny/workshop](https://github.com/Heccubernny/workshop)
+1. 🗣 Commented on [#197](https://github.com/hngprojects/hng_boilerplate_nestjs/issues/197#issuecomment-2237028219) in [hngprojects/hng_boilerplate_nestjs](https://github.com/hngprojects/hng_boilerplate_nestjs)
+2. ❗ Opened issue [#197](https://github.com/hngprojects/hng_boilerplate_nestjs/issues/197) in [hngprojects/hng_boilerplate_nestjs](https://github.com/hngprojects/hng_boilerplate_nestjs)
 <!--END_SECTION:activity-->
 
 

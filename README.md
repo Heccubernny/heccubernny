@@ -111,8 +111,8 @@ const aboutMe = {
 <!-- TODO-IST:END -->
 <h3>Pull Request</h3>
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/xenabyte/afroservesall/pull/3) in [xenabyte/afroservesall](https://github.com/xenabyte/afroservesall)
-2. 💪 Opened PR [#10](https://github.com/dsc-unilorin/gdscunilorin/pull/10) in [dsc-unilorin/gdscunilorin](https://github.com/dsc-unilorin/gdscunilorin)
+1. ❗ Opened issue [#197](https://github.com/hngprojects/hng_boilerplate_nestjs/issues/197) in [hngprojects/hng_boilerplate_nestjs](https://github.com/hngprojects/hng_boilerplate_nestjs)
+2. ❗ Opened issue [#1](https://github.com/Heccubernny/workshop/issues/1) in [Heccubernny/workshop](https://github.com/Heccubernny/workshop)
 <!--END_SECTION:activity-->
 
 

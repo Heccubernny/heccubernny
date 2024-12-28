@@ -1,8 +1,8 @@
-<h1 align="center">Paul Ikubanni (Heccubernny)</h1>
+<h1 align="center">Paul Oladayo (Heccubernny)</h1>
 <h2 align="center"><strong>I’m an Undergraduate and Software Engineer</strong></h2>
 
 ```
-. 👋 Hi, I’m Paul Ikubanni
+. 👋 Hi, I’m Paul Oladayo
 . 👀 I’m a Software Engineer and Undergradute
 . 👀 Lover of Artificial Intelligence (AI)
 . 🌱 I’m currently working toward learn about AI, Data Science, with the help of amazing tools like python, 
@@ -12,7 +12,7 @@
 . 💞️ I’m looking to collaborate on any web project with application of AI using Django, Laravel, React, and Express, to improve my knowledge boundaries.
 . 😄 Pronouns - He/ His/ Him
 ```
-. 📫 You can reach via my mail @ - <ikubannip@gmail.com>
+. 📫 You can reach via my mail @ - <Oladayop@gmail.com>
 <!--
 [![Actions Status](https://github.com/heccubernny/heccubernny/workflows/wakatime-stats/badge.svg)](https://github.com/heccubernny/heccubernny/actions)
 
@@ -83,7 +83,7 @@ const aboutMe = {
 
 
 <summary>Daily.dev Card</summary>
-<a href="https://app.daily.dev/Heccubernny"><img src="https://github.com/Heccubernny/heccubernny/blob/main/devcard.svg" width="400" alt="Ikubanni Paul's Dev Card"/></a>
+<a href="https://app.daily.dev/Heccubernny"><img src="https://github.com/Heccubernny/heccubernny/blob/main/devcard.svg" width="400" alt="Oladayo Paul's Dev Card"/></a>
 </details>
 
 </br></br>
@@ -130,7 +130,7 @@ const aboutMe = {
 
 </details>
 
-<p><a href="https://www.twitter.com/ikubanni_paul"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/ikubannipaul"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/heccubernny1/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> <a href="https://medium.com/@ipom4eva"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> <a href="https://dev.to/heccubernny"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a></p>
+<p><a href="https://www.twitter.com/Oladayo_paul"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/Oladayopaul"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/heccubernny1/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> <a href="https://medium.com/@ipom4eva"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> <a href="https://dev.to/heccubernny"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a></p>
 
 <p align="center">
  <img align src="https://github-profile-trophy.vercel.app/?username=heccubernny&theme=onedark&column=6&rank=SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy"/>

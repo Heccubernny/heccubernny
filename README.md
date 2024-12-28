@@ -12,7 +12,7 @@
 . 💞️ I’m looking to collaborate on any web project with application of AI using Django, Laravel, React, and Express, to improve my knowledge boundaries.
 . 😄 Pronouns - He/ His/ Him
 ```
-. 📫 You can reach via my mail @ - <Oladayop@gmail.com>
+. 📫 You can reach via my mail @ - <heccubernny@gmail.com>
 <!--
 [![Actions Status](https://github.com/heccubernny/heccubernny/workflows/wakatime-stats/badge.svg)](https://github.com/heccubernny/heccubernny/actions)
 

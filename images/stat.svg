@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2025-10-30T09:45:29.243309</dc:date>
+    <dc:date>2025-10-30T09:57:37.639280</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -36,7 +36,7 @@ L 574.022321 27.358125
 L 574.022321 72.158125 
 L 42.59375 72.158125 
 z
-" clip-path="url(#p4aa8187c78)" style="fill: #089072; stroke: #089072; stroke-linejoin: miter"/>
+" clip-path="url(#pb79c7410d0)" style="fill: #7507b7; stroke: #7507b7; stroke-linejoin: miter"/>
    </g>
    <g id="patch_3">
     <path d="M 42.59375 83.358125 
@@ -44,19 +44,19 @@ L 546.684608 83.358125
 L 546.684608 128.158125 
 L 42.59375 128.158125 
 z
-" clip-path="url(#p4aa8187c78)" style="fill: #cc72c2; stroke: #cc72c2; stroke-linejoin: miter"/>
+" clip-path="url(#pb79c7410d0)" style="fill: #5a148d; stroke: #5a148d; stroke-linejoin: miter"/>
    </g>
    <g id="matplotlib.axis_1"/>
    <g id="matplotlib.axis_2">
     <g id="ytick_1">
      <g id="line2d_1">
       <defs>
-       <path id="m86ced6f05f" d="M 0 0 
+       <path id="me30437686d" d="M 0 0 
 L -3.5 0 
 " style="stroke: #000000; stroke-width: 0.8"/>
       </defs>
       <g>
-       <use xlink:href="#m86ced6f05f" x="42.59375" y="49.758125" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#me30437686d" x="42.59375" y="49.758125" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_1">
@@ -122,7 +122,7 @@ z
     <g id="ytick_2">
      <g id="line2d_2">
       <g>
-       <use xlink:href="#m86ced6f05f" x="42.59375" y="105.758125" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#me30437686d" x="42.59375" y="105.758125" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_2">
@@ -655,7 +655,7 @@ z
   </g>
  </g>
  <defs>
-  <clipPath id="p4aa8187c78">
+  <clipPath id="pb79c7410d0">
    <rect x="42.59375" y="22.318125" width="558" height="110.88"/>
   </clipPath>
  </defs>

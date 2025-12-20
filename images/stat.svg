@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2025-12-20T23:41:11.377528</dc:date>
+    <dc:date>2025-12-20T23:53:24.514127</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -36,27 +36,27 @@ L 574.022321 27.358125
 L 574.022321 72.158125 
 L 42.59375 72.158125 
 z
-" clip-path="url(#p3d3463e86e)" style="fill: #4619cb; stroke: #4619cb; stroke-linejoin: miter"/>
+" clip-path="url(#p0b5da09d65)" style="fill: #4a8e69; stroke: #4a8e69; stroke-linejoin: miter"/>
    </g>
    <g id="patch_3">
     <path d="M 42.59375 83.358125 
-L 509.340557 83.358125 
-L 509.340557 128.158125 
+L 511.030788 83.358125 
+L 511.030788 128.158125 
 L 42.59375 128.158125 
 z
-" clip-path="url(#p3d3463e86e)" style="fill: #bbbe57; stroke: #bbbe57; stroke-linejoin: miter"/>
+" clip-path="url(#p0b5da09d65)" style="fill: #76345d; stroke: #76345d; stroke-linejoin: miter"/>
    </g>
    <g id="matplotlib.axis_1"/>
    <g id="matplotlib.axis_2">
     <g id="ytick_1">
      <g id="line2d_1">
       <defs>
-       <path id="mc5af1f8cad" d="M 0 0 
+       <path id="mf364ceca46" d="M 0 0 
 L -3.5 0 
 " style="stroke: #000000; stroke-width: 0.8"/>
       </defs>
       <g>
-       <use xlink:href="#mc5af1f8cad" x="42.59375" y="49.758125" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#mf364ceca46" x="42.59375" y="49.758125" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_1">
@@ -178,7 +178,7 @@ z
     <g id="ytick_2">
      <g id="line2d_2">
       <g>
-       <use xlink:href="#mc5af1f8cad" x="42.59375" y="105.758125" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#mf364ceca46" x="42.59375" y="105.758125" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_2">
@@ -355,7 +355,7 @@ z
    </g>
    <g id="text_4">
     <!-- 1 hr 16 mins -->
-    <g style="fill: #586069" transform="translate(513.340557 108.5175) scale(0.1 -0.1)">
+    <g style="fill: #586069" transform="translate(515.030788 108.5175) scale(0.1 -0.1)">
      <defs>
       <path id="DejaVuSans-36" d="M 2113 2584 
 Q 1688 2584 1439 2293 
@@ -689,7 +689,7 @@ z
   </g>
  </g>
  <defs>
-  <clipPath id="p3d3463e86e">
+  <clipPath id="p0b5da09d65">
    <rect x="42.59375" y="22.318125" width="558" height="110.88"/>
   </clipPath>
  </defs>
